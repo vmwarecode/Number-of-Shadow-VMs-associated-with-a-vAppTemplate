@@ -1,1 +1,0 @@
-# Number-of-Shadow-VMs-associated-with-a-vAppTemplate
